@@ -1,0 +1,4 @@
+"id","name","last_name","solary","city","social_security_number","role","email_address","phone_number","education","address","work_experience","financial_department","sales_department","administrative_department","marketing_department","technological_department","communication_department","password1"
+1,"Danail","Mihaylov",2000,"Varna",45326789,1,"danailmihailov88@gmail.com","0834567854","Matematicheska gimnaziq","ul. Cerevec 8","1y",True,NULL,NULL,True,NULL,NULL,"MTIz"
+2,"Miroslav","Dimitrov",2000,"Varna",34563212,2,"dimitrov@abv.bg","0889233456","Matematicheska gimnaziq","ul. Topola 5","10m",NULL,True,True,NULL,True,True,"YXNk"
+3,"Georgi","Kostadinov",2000,"Varna",82321345,2,"dan@abv.bg","0882432432","MG","Topola","2m",False,True,True,True,False,False,"MTIzNA=="
